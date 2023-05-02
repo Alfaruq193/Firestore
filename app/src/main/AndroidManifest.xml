@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.varoo.firestore">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/img"
+        android:label="Jalan Jajan"
+        android:roundIcon="@drawable/img"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Firestore">
+        <activity
+            android:name=".home.RestoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.TentangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.PrivasiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rental.RentalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.AlamatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.KeretaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kapal.PelniActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kapal.FeriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.KapalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".maskapai.CitilinkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".maskapai.AirAsiaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".maskapai.BatikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".maskapai.SriwijayaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".maskapai.GarudaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".maskapai.LionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.PesawatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profile.UbahProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".landing.KulinerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".landing.PantaiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailProdukActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChangeEmailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChangePasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ResetPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

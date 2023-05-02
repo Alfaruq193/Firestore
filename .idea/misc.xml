@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable-v24/ic_baseline_business_24.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable-v24/ic_baseline_chevron_right_24.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/ic_account_circle.xml" value="0.1765" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/ic_home.xml" value="0.1765" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/radius.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/radius1.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/radius2.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/radius3.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/radius4.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/radius5.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/drawable/shape.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_air_asia.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_alamat.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_batik.xml" value="0.2546875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_change_email.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_change_password.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_citilink.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_detail_produk.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_feri.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_garuda.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_kapal.xml" value="0.22" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_kereta.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_kuliner.xml" value="0.22" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_lion.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_pantai.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_pelni.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_pesawat.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_privasi.xml" value="0.2546875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_regis.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_rental.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_reset_password.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_resto.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_sriwijaya.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_tentang.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/activity_ubah_profile.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/item_baju.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/items_profile.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/items_slider.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/toolbar.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/user_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/layout/wishlist_fragment.xml" value="0.26875" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.169" />
+        <entry key="..\:/Users/Abdullah Al-Faruq/AndroidStudioProjects/Firestore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.169" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

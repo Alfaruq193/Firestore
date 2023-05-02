@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/landing1"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/skip1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="663dp"
+        android:layout_marginRight="260dp"
+        android:background="@drawable/radius"
+        android:padding="5dp"
+        android:text="skip" />
+
+
+
+
+
+    <Button
+        android:id="@+id/next1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="260dp"
+        android:layout_marginTop="663dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/radius2"
+        android:padding="5dp"
+        android:text="next" />
+
+</RelativeLayout>

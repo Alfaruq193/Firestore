@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/landing2"
+    android:layout_height="wrap_content"
+    tools:context=".landing.PantaiActivity">
+
+
+    <Button
+        android:id="@+id/skip2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="667dp"
+        android:layout_marginRight="260dp"
+        android:background="@drawable/radius"
+        android:padding="15dp"
+        android:text="skip" />
+
+    <Button
+        android:id="@+id/next2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="260dp"
+        android:layout_marginTop="667dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/radius3"
+        android:padding="15dp"
+        android:text="next" />
+
+</RelativeLayout>

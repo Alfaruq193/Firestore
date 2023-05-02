@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934189350984",
+    "project_id": "firestore-e292a",
+    "storage_bucket": "firestore-e292a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934189350984:android:685280b025cc59b41b187d",
+        "android_client_info": {
+          "package_name": "com.varoo.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934189350984-2eff5oh1skhe32gr612ath525pjhvt6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varoo.firestore",
+            "certificate_hash": "fbe5ae3aa6af1d8e741cabe0c309090971c1a3f5"
+          }
+        },
+        {
+          "client_id": "934189350984-t1d7h0c32bagp3n4ps9hqc1ns884b6du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMtM0rYPPuZoOQ5KTu0Fy1LNNvzvMlJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934189350984-t1d7h0c32bagp3n4ps9hqc1ns884b6du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
